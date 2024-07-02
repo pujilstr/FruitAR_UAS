@@ -1,0 +1,418 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 729,
+      "max": [
+        0.19534070789813995,
+        0.040019650012254715,
+        0.037980880588293076
+      ],
+      "min": [
+        -0.10621689260005951,
+        -0.040019646286964417,
+        -0.03135129436850548
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 8748,
+      "componentType": 5126,
+      "count": 729,
+      "max": [
+        0.9999641180038452,
+        0.9999841451644897,
+        0.999985933303833
+      ],
+      "min": [
+        -0.9994332790374756,
+        -0.9999841451644897,
+        -0.9998391270637512
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 729,
+      "max": [
+        0.4023427963256836,
+        0.9988399147987366,
+        0.998123288154602,
+        1.0
+      ],
+      "min": [
+        -0.9999858736991882,
+        -0.9973094463348389,
+        -0.9918683171272278,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 729,
+      "max": [
+        0.9906272888183594,
+        0.8342649936676025
+      ],
+      "min": [
+        0.009372717700898647,
+        0.009372717700898647
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5832,
+      "componentType": 5126,
+      "count": 729,
+      "max": [
+        0.9906272888183594,
+        0.8342649936676025
+      ],
+      "min": [
+        0.009372717700898647,
+        0.009372717700898647
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 4032,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 17496,
+      "componentType": 5126,
+      "count": 1141,
+      "max": [
+        -0.10389205813407898,
+        0.003893194254487753,
+        0.012755352072417736
+      ],
+      "min": [
+        -0.10985604673624039,
+        -0.003893198212608695,
+        0.007779556326568127
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 31188,
+      "componentType": 5126,
+      "count": 1141,
+      "max": [
+        0.14256690442562103,
+        0.9999691247940063,
+        0.9999053478240967
+      ],
+      "min": [
+        -0.9999530911445618,
+        -0.9999690651893616,
+        -0.9883140325546265
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 11664,
+      "componentType": 5126,
+      "count": 1141,
+      "max": [
+        0.9998980164527893,
+        0.9986649751663208,
+        0.9840253591537476,
+        1.0
+      ],
+      "min": [
+        -0.993805468082428,
+        -0.9999269843101501,
+        -0.9893128275871277,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 11664,
+      "componentType": 5126,
+      "count": 1141,
+      "max": [
+        0.038794077932834625,
+        0.9010341167449951
+      ],
+      "min": [
+        0.009372717700898647,
+        0.8530104160308838
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 20792,
+      "componentType": 5126,
+      "count": 1141,
+      "max": [
+        0.038794077932834625,
+        0.9010341167449951
+      ],
+      "min": [
+        0.009372717700898647,
+        0.8530104160308838
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 16128,
+      "componentType": 5125,
+      "count": 6528,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "wheelsflash (https://sketchfab.com/wheelsflash)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/mango-fd3d5be50e944d87a7795a27bbbad23a",
+      "title": "Mango"
+    },
+    "generator": "Sketchfab-16.8.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 42240,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 29920,
+      "byteOffset": 42240,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 44880,
+      "byteOffset": 72160,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 29920,
+      "byteOffset": 117040,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 146960,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/mango_baked_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/mango_baked_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "mango_baked",
+      "normalTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.89266873708001
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "mango_baked.001",
+      "normalTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8614359353944898
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "mango_mango_baked_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "mango_mango_baked.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6,
+            "TANGENT": 8,
+            "TEXCOORD_0": 9,
+            "TEXCOORD_1": 10
+          },
+          "indices": 11,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "mango.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "matrix": [
+        50.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -9.775241385002956e-06,
+        -60.00000381469647,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "mango"
+    },
+    {
+      "mesh": 0,
+      "name": "mango_mango_baked_0"
+    },
+    {
+      "mesh": 1,
+      "name": "mango_mango_baked.001_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}

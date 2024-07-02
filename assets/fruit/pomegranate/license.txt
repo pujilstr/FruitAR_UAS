@@ -1,0 +1,8 @@
+Model Information:
+* title:	Pomegranate
+* source:	https://sketchfab.com/3d-models/pomegranate-1ab76e8531e54f68922af611e8fb0bb7
+* author:	thomass3278 (https://sketchfab.com/thomass3278)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

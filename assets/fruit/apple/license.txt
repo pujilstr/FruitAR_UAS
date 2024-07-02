@@ -1,0 +1,8 @@
+Model Information:
+* title:	Apple fruit 1
+* source:	https://sketchfab.com/3d-models/apple-fruit-1-fff89605e3364d80a0598aa1d795a9b9
+* author:	B4D7 (https://sketchfab.com/B4D7)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

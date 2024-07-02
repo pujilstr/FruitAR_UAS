@@ -1,0 +1,8 @@
+Model Information:
+* title:	Banana fruit 1
+* source:	https://sketchfab.com/3d-models/banana-fruit-1-2cd6b527f86a4696857f165b47febbdc
+* author:	B4D7 (https://sketchfab.com/B4D7)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

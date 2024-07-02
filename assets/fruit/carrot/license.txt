@@ -1,0 +1,8 @@
+Model Information:
+* title:	Carrot
+* source:	https://sketchfab.com/3d-models/carrot-bb49bfca7b854e9eb62f93603fa2d215
+* author:	EP Photogrammetry (https://sketchfab.com/richard.jbacsa)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

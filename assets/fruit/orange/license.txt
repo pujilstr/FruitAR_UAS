@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fresh Orange
+* source:	https://sketchfab.com/3d-models/fresh-orange-4790ef6ed0ba4ad0b62a12a7875a114d
+* author:	naka2012 (https://sketchfab.com/naka2012)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fresh Orange" (https://sketchfab.com/3d-models/fresh-orange-4790ef6ed0ba4ad0b62a12a7875a114d) by naka2012 (https://sketchfab.com/naka2012) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

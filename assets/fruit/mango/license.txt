@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mango
+* source:	https://sketchfab.com/3d-models/mango-fd3d5be50e944d87a7795a27bbbad23a
+* author:	wheelsflash (https://sketchfab.com/wheelsflash)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mango" (https://sketchfab.com/3d-models/mango-fd3d5be50e944d87a7795a27bbbad23a) by wheelsflash (https://sketchfab.com/wheelsflash) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
